@@ -1,0 +1,6 @@
+[submodule "app/Plugin/DebugKit"]
+	path = app/Plugin/DebugKit
+	url = https://github.com/cakephp/debug_kit.git
+[submodule "app/Plugin/TinyAdmin"]
+	path = app/Plugin/TinyAdmin
+	url = git@github.com:LubosRemplik/CakePHP-TinyAdmin-Plugin.git
