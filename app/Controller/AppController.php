@@ -37,4 +37,10 @@ class AppController extends Controller {
 		'DebugKit.Toolbar',
 		'TinyAdmin.Admin'
 	);
+
+	public $helpers = array(
+		'Form' => array(
+			'className' => 'Twbs.BootstrapForm'
+		)
+	);
 }

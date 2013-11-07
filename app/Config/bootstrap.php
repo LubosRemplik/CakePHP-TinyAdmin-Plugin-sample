@@ -74,6 +74,7 @@ Cache::config('default', array('engine' => 'File'));
 CakePlugin::loadAll(array(
 	'DebugKit',
 	'TinyAdmin' => array('routes' => true, 'bootstrap' => true),
+	'Twbs',
 ));
 
 /**

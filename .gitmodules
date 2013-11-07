@@ -4,3 +4,6 @@
 [submodule "app/Plugin/TinyAdmin"]
 	path = app/Plugin/TinyAdmin
 	url = git@github.com:LubosRemplik/CakePHP-TinyAdmin-Plugin.git
+[submodule "app/Plugin/Twbs"]
+	path = app/Plugin/Twbs
+	url = git@github.com:LubosRemplik/CakePHP-Twbs-Plugin.git
