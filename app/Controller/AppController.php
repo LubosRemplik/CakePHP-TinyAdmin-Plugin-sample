@@ -41,6 +41,9 @@ class AppController extends Controller {
 	public $helpers = array(
 		'Form' => array(
 			'className' => 'Twbs.BootstrapForm'
+		),
+		'Html' => array(
+			'className' => 'Twbs.BootstrapHtml'
 		)
 	);
 }
