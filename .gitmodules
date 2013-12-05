@@ -3,7 +3,7 @@
 	url = https://github.com/cakephp/debug_kit.git
 [submodule "app/Plugin/TinyAdmin"]
 	path = app/Plugin/TinyAdmin
-	url = git@github.com:LubosRemplik/CakePHP-TinyAdmin-Plugin.git
+	url = https://github.com/LubosRemplik/CakePHP-TinyAdmin-Plugin.git
 [submodule "app/Plugin/Twbs"]
 	path = app/Plugin/Twbs
-	url = git@github.com:LubosRemplik/CakePHP-Twbs-Plugin.git
+	url = https://github.com/LubosRemplik/CakePHP-Twbs-Plugin.git
